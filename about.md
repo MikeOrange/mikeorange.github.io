@@ -15,6 +15,8 @@ Miguel Brito, the driving force behind Cocuy Rock, is a highly skilled software 
 
 Throughout his career, Miguel has worked on numerous projects, delivering impactful solutions for clients across different industries, including clients and providers in the USA. His passion for innovation and commitment to excellence have earned him a reputation for delivering high-quality software applications that exceed expectations.
 
+Find more information about him on his [LinkedIn]() and [Github]() pages.
+
 ### A Commitment to Excellence
 
 At Cocuy Rock, we strive for excellence in every project we undertake. We believe that outstanding software development requires a combination of technical expertise, creativity, and a deep understanding of our clients' objectives. Miguel's extensive experience and his dedication to staying at the forefront of the industry ensure that our solutions are always cutting-edge, robust, and future-proof.
