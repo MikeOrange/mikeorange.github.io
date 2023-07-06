@@ -19,3 +19,10 @@ footer:
   - name: "Contact"
     url: "/contact/"
     weight: 2
+  - name: "Privacy"
+    url: "/privacy/"
+    weight: 2
+  - name: "Terms and Conditions"
+    url: "/terms/"
+    weight: 2
+    
