@@ -4,13 +4,10 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Thank you for your interest in Cocuy Rock! We look forward to hearing from you and discussing how we can help bring your digital vision to life. To get in touch with us, please use one of the methods above
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+Whether you have a question, a project idea, or just want to say hello, we are here to assist you. Our team will respond to your inquiry as soon as possible.
+
+We value your privacy and assure you that any information you provide will be treated with the utmost confidentiality.
+
+We look forward to connecting with you and exploring how Cocuy Rock can contribute to your success!

@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Tailor-made Solutions",
+    "description": "We develop custom software applications that fit your unique business needs.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Strategic Project Planning",
+    "description": "We help you plan and execute successful software development projects.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Cloud-Powered Performance",
+    "description": "Leverage the cloud for scalable and secure software deployment.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
